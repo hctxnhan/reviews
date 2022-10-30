@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# ReactJS Review components
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+![image](https://user-images.githubusercontent.com/95177300/198862901-b7fd3947-f9ef-4a1b-8ad6-9ac85b4361ca.png)
 
 In the project directory, you can run:
 
