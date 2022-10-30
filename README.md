@@ -1,4 +1,4 @@
-# ReactJS Review components
+# ReactJS Review testinomial component
 
 ![image](https://user-images.githubusercontent.com/95177300/198862901-b7fd3947-f9ef-4a1b-8ad6-9ac85b4361ca.png)
 
